@@ -7,7 +7,7 @@
                 <li>Bulleted list are Nice.</li>
                 <li class="- topic/li ">Especially u have at least two items.</li>
             </ul></p>
-        <note id="note_lmn_lhm_q2c" type="note">Don't Forget to add notes.</note>
+        <note id="note_lmn_lhm_q2c" type="note">Don't Forget to add notes  .</note>
         <note id="note_z45_nhm_q2c" type="warning">Most surface-feeding ducks are agile and will
             take to the air easily. Approach these ducks slowly.</note>
         <p>The life cycle of the duck is similar to that of most birds:</p>
@@ -40,7 +40,7 @@
         <p>This is an <term>makka mass</term>and <fn>this is good</fn>, <indexterm>better
                 one</indexterm>.</p>
         <table frame="all" rowsep="1" colsep="1" id="table_edb_llm_q2c">
-            <title/>
+            <title>Table  1</title>
             <tgroup cols="2">
                 <colspec colnum="1" colname="c1" colwidth="1*"/>
                 <colspec colnum="2" colname="c2" colwidth="1*"/>
