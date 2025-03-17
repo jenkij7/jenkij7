@@ -8,5 +8,50 @@
    <p>Ducklings running</p>
    <image href="ducklings_running.jpg" id="image_syn_kqw_r2c"/>
   </fig>
+   <simpletable>
+     <sthead>
+       <stentry><p>Age</p></stentry>
+       <stentry><p>Milestone</p></stentry>
+     </sthead>
+     <strow>
+       <stentry><p>7 weeks</p></stentry>
+       <stentry><p>Attempt flight for the first time</p></stentry>
+     </strow>
+     <strow>
+       <stentry><p>12-14 weeks</p></stentry>
+       <stentry><p>Reach adult body weight</p></stentry>
+     </strow>
+     <strow>
+       <stentry><p>1 year</p></stentry>
+       <stentry><p>Capable of reproduction</p></stentry>
+     </strow>
+   </simpletable>
+  <table frame="all" rowsep="1" colsep="1" id="table_kyt_s5w_r2c">
+   <title>Typical development of mallard ducks</title>
+   <tgroup cols="2">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*"/>
+    <thead>
+      <row>
+        <entry><p><b>Age</b></p></entry>
+        <entry><p><b>Milestone</b></p></entry>
+      </row>
+    </thead>
+    <tbody>
+      <row>
+        <entry><p>7 weeks</p></entry>
+        <entry><p>Attempt flight for the first time</p></entry>
+      </row>
+      <row>
+        <entry><p>12-14 weeks</p></entry>
+        <entry><p>Reach adult body weight</p></entry>
+      </row>
+      <row>
+        <entry><p>1 year</p></entry>
+        <entry><p>Capable of reproduction</p></entry>
+      </row>
+    </tbody>
+   </tgroup>
+  </table>
  </conbody>
 </concept>
