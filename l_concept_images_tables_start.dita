@@ -3,6 +3,10 @@
 <concept id="concept_images_tables">
  <title>Duckling growth and development</title>
  <conbody>
-  
+  <image href="ducklings_swimming.jpg" id="image_nts_2qw_r2c"/>
+  <fig id="fig_gdy_3qw_r2c">
+   <p>Ducklings running</p>
+   <image href="ducklings_running.jpg" id="image_syn_kqw_r2c"/>
+  </fig>
  </conbody>
 </concept>
