@@ -3,6 +3,52 @@
 <concept id="concept_images_tables_exercise">
  <title>Supporting marketing with technical content</title>
  <conbody>
-
- </conbody>
+   <p>Tech comm and marcom have long occupied opposite ends of the content spectrum. The stereotype
+   is that tech comm is text-heavy, dense, and badly formatted whereas marcom is shiny, beautiful,
+   and content-free. From there, the debate just intensifies: </p>
+  <table frame="all" rowsep="1" colsep="1" id="table_thm_3lk_s2c">
+   <title>Marcom versus tech comm: the stereotypes</title>
+   <tgroup cols="3">
+    <colspec colnum="1" colname="c1" colwidth="1*"/>
+    <colspec colnum="2" colname="newCol2" colwidth="1*"/>
+    <colspec colnum="3" colname="c2" colwidth="1*"/>
+    <thead>
+     <row>
+      <entry/>
+      <entry><b>Marcom</b></entry>
+      <entry><b>Tech comm</b></entry>
+     </row>
+    </thead>
+    <tbody>
+     <row>
+      <entry>Design or automation?</entry>
+      <entry>Design</entry>
+      <entry>Automation</entry>
+     </row>
+     <row>
+      <entry>How much detail?</entry>
+      <entry>As little as possible</entry>
+      <entry>As much as possible</entry>
+     </row>
+     <row>
+      <entry>Assumed impact on revenue</entry>
+      <entry>A lot</entry>
+      <entry>None</entry>
+     </row>
+     <row>
+      <entry>Primary purpose</entry>
+      <entry>Persuade people to buy</entry>
+      <entry>Inform people</entry>
+     </row>
+    </tbody>
+   </tgroup>
+  </table>
+  <p>Give people a friendly interface that lets them quickly narrow down their options and choose
+   the one they want. You don’t have to expose all of the fields in the database—just the ones that
+   help people narrow down their choices.</p>
+  <fig id="fig_tn3_2mk_s2c">
+   <title>The product list on the right updates as you make selections on the left</title>
+   <image href="configurebetter1.png" id="image_tn5_hmk_s2c"/>
+  </fig>
+  </conbody>
 </concept>
