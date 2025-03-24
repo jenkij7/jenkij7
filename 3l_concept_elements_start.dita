@@ -19,8 +19,24 @@
   </p>
   <p>Domestic ducks fall into categories based on weight. The weight classes may help you choose a
    species on how much you will need to feed your duck.</p>
-     
-     
+   <dl>
+     <dlentry>
+     <dt>Bantam</dt>
+         <dd>The lightest-weight duck and best fliers, such as the mallard duck.</dd>
+     </dlentry>
+     <dlentry>
+       	 <dt>Light</dt>
+       	 <dd>The second lightest-weight ducks and best egg-layers, such as the khaki cambell duck.</dd>
+     </dlentry>
+     <dlentry>
+       	 <dt>Medium</dt>
+         <dd>The mid-weight and generally calmest ducks, such as the Swedish duck.</dd>
+     </dlentry>
+     <dlentry>
+       <dt>Heavy</dt>
+       <dd>The heaviest and generally friendliest ducks, such as the Pekin duck.</dd>
+     </dlentry>     
+     </dl>
  
  </conbody>
 </concept>
